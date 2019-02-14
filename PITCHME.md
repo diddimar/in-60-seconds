@@ -166,7 +166,7 @@ Custom zoom on a **Tree Directory Structure** snippet.
 @title[Standard GIST Snippet]
 
 @snap[north-east span-100 text-05]
-You can also render any **GitHub GIST** on your slides using [&#64;gist shortcut syntax](https://gitpitch.com/docs/markdown-features/pro-widgets).<br>
+You can also render any **GitHub GIST** on your slides using [&#64;gist shortcut syntax](http://git.ntv.is/snippets/62).<br>
 Standard display of GIST source code snippet.
 @snapend
 
